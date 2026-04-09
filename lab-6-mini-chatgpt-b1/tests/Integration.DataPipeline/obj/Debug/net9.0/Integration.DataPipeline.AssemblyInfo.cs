@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Integration.DataPipeline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d72bdb170d3a8055c5529fad4ef47eaf0f10d05b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab092905de7a1c66c62f01da9436b71d4ee7d9b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Integration.DataPipeline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Integration.DataPipeline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
